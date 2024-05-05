@@ -34,7 +34,7 @@ If you prefer using Yarn package manager, you can follow the steps below to run 
 2. Navigate to the project directory in your terminal.
 3. Run `yarn install` to install the dependencies.
 4. Run `yarn start` to start the development server.
-5. Open your web browser and go to `http://localhost:
+5. Open your web browser and go to `http://localhost:3000`
 
 ## 🛠️Technologies Used
 - React.js
