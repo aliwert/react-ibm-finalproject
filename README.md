@@ -10,7 +10,7 @@
 - Budget Management: Users can dynamically adjust the budget, add or reduce allocations, and see the remaining budget.
 - Currency Selection: Users can choose their preferred currency from options including Dollar, Pound, Euro, and Rupee.
 
-## Usage
+## 🔍Usage
 - Once the application is running, you can access it via your web browser. Here are the main functionalities:
 
 - Budget Allocation: Select a department from the dropdown menu, choose an action (Add or Reduce), enter the allocation amount, and click "Save" to allocate the budget.
