@@ -36,6 +36,10 @@ If you prefer using Yarn package manager, you can follow the steps below to run 
 4. Run `yarn start` to start the development server.
 5. Open your web browser and go to `http://localhost:
 
+## 🛠️Technologies Used
+- React.js
+- Boostrap
 
 
-#
+## 👽Contributions
+- Contributions are welcome! If you find any issues or have suggestions for improvements, feel free to open an issue or submit a pull request.
